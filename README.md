@@ -44,7 +44,11 @@ M.Sc. Applied Data Science and Analytics (SRH Heidelberg, 2025)
 | [**MetroPT Fabric Health Monitor**](https://github.com/vk20001/metropt-fabric-health-monitor) | 1.5M-row metro train compressor dataset through a Delta Lake medallion in Microsoft Fabric with quarantine patterns and z-score health scoring. | Microsoft Fabric · Delta Lake · PySpark · Power BI |
 | [**Snowflake German Energy**](https://github.com/vk20001/snowflake-german-energy-intelligence) | SMARD wholesale electricity data through Snowflake Dynamic Tables with Cortex Analyst, Semantic Views, and Data Metric Functions. | Snowflake · Dynamic Tables · Cortex Analyst · Python |
 
-### Hackathon: Google Gen AI Academy APAC (hack2skill x Google Cloud)
+### Google Gen AI Academy APAC (hack2skill x Google Cloud) | Weekly Challenge Winner | Top 50 Achiever
+
+<img src="Track_1.png" alt="Top 50 Achiever Badge" width="120" />
+
+**Top 50 Project Submission.** Recognized among the first 50 participants to achieve a strong score in the project submission phase.
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
@@ -68,3 +72,6 @@ M.Sc. Applied Data Science and Analytics (SRH Heidelberg, 2025)
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vk20001&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
