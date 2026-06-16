@@ -68,6 +68,3 @@ M.Sc. Applied Data Science and Analytics (SRH Heidelberg, 2025)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vk20001&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
