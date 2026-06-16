@@ -46,7 +46,7 @@ M.Sc. Applied Data Science and Analytics (SRH Heidelberg, 2025)
 
 ### Google Gen AI Academy APAC (hack2skill x Google Cloud) | Weekly Challenge Winner | Top 50 Achiever
 
-<img src="Track_1.png" alt="Top 50 Achiever Badge" width="120" />
+<img src="Track 1.png" alt="Top 50 Achiever Badge" width="120" />
 
 **Top 50 Project Submission.** Recognized among the first 50 participants to achieve a strong score in the project submission phase.
 
@@ -72,6 +72,3 @@ M.Sc. Applied Data Science and Analytics (SRH Heidelberg, 2025)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vk20001&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
